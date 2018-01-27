@@ -25,7 +25,7 @@ SECRET_KEY = '5f^n&ty4$ekfwbd2otqoxh*2ivqy68yh_ni(glo6=qe8snc#)h'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['.singularity-petal.tk']
 
 
 # Application definition
